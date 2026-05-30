@@ -1,6 +1,6 @@
 # Recipe App
 
-A web application built with Lovable and claud.
+A web application built with Lovable and claude.
 
 ## 🚀 How to Run Locally
 
